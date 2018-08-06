@@ -44,6 +44,7 @@ python model/model.py
 ```
 
 5- Get the User and Movie features matrix(Option)(Skip if you do not want to train it by yourself):
+
 I have put the trained model in the files, feel free to train it by yourself or you can use the trained model
 ```
 python features/get_features.py
