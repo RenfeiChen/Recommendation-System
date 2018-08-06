@@ -36,14 +36,15 @@ matplotlib = 2.0.2
 python data/data.py
 ```
 
-4- Train the model(Option):
+4- Train the model(Option)(Skip if you do not want to train it by yourself):
 
 I have put the trained model in the files, feel free to train it by yourself or you can use the trained model
 ```
 python model/model.py
 ```
 
-5- Get the User and Movie features matrix:
+5- Get the User and Movie features matrix(Option)(Skip if you do not want to train it by yourself):
+I have put the trained model in the files, feel free to train it by yourself or you can use the trained model
 ```
 python features/get_features.py
 ```
